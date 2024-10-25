@@ -1,4 +1,1 @@
----
-title: Brandon's Blog
----
 
